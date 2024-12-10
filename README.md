@@ -1,8 +1,29 @@
-# React + Vite
+# React E-commerce Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce platform built with React, Vite, and TailwindCSS featuring both user and admin interfaces.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🛍️ User Interface
+  - Product browsing and searching
+  - Shopping cart functionality
+  - User authentication
+  - Responsive design
+  - Dark/Light mode
+
+- 👨‍💼 Admin Dashboard
+  - Product management
+  - User management
+  - Order tracking
+  - Payment monitoring
+  - Analytics dashboard
+
+## Tech Stack
+
+- React 18.3
+- Vite 6.0
+- TailwindCSS 3.4
+- React Router DOM 7.0
+- React Icons
+- ESLint
+
